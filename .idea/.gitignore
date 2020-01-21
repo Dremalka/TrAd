@@ -1,0 +1,10 @@
+# Default ignored files
+/workspace.xml
+/modules.xml
+.idea
+*.pyc
+__pycache__
+/misc.xml
+/inspectionProfiles/profiles_settings.xml
+/TrAd.iml
+/vcs.xml
